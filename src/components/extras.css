@@ -1,0 +1,190 @@
+.extras{
+    position: absolute;
+width: 485px;
+height: 982px;
+left: 348px ;
+top: 0px;
+right: 0%;
+}
+
+.extrasbg{
+    position: absolute;
+width: 353px;
+height: 982px;
+left: 1154px;
+top: 0px;
+right: 0%;
+
+/* 21242D */
+
+background: #21242D;
+/* Border */
+
+border: 2px solid rgba(249, 249, 249, 0.1);
+}
+
+.notifi{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 13px 16px;
+gap: 10px;
+
+position: absolute;
+width: 56px;
+height: 56px;
+left: 1194px;
+top: 48px;
+
+/* Low op btn */
+
+background: rgba(249, 249, 249, 0.2);
+border-radius: 15px;
+}
+
+.tf1{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#tf11{
+    width: 56px;
+height: 56px;
+border-radius: 15px;
+background-color:  rgba(249, 249, 249, 0.2);
+}
+
+#tf12{
+    width: 56px;
+height: 56px;
+border-radius: 15px;
+background-image: url(./images/Profile\ Picture.png);
+}
+.continue{
+    display: flex;
+    width: 90%;
+    margin: auto;
+    justify-content: space-evenly;
+    margin-top: 55px;
+}
+.con1{
+    width: 55%;
+    justify-content: space-evenly;
+    font-size: large;
+    color: white;
+    display: flex;
+    font-weight: bold;
+
+}
+
+.con2{
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.lmd{
+    width: 210px;
+    height: 129px;
+    border-radius: 12px;
+    background-color: #16181E;
+    margin-top: 30px;
+    margin-left: 50px;
+   
+}
+.lmd1{
+    display: flex;
+    width: 90%;
+    justify-content: space-around;
+    margin: auto;
+}
+.lmd2{
+    display: flex;
+    width: 90%;
+    justify-content: space-between;
+    margin: auto;
+}
+.lmd11{
+    width: 55px;
+    height: 59px;
+    background-image: url(./images/Picture\ \(3\).png);
+    margin-top: 6px;
+    
+}
+.lmd21{
+    width: 55px;
+    height: 40px;
+    background-color: rgba(249, 249, 249, 0.2);
+    margin-top: 6px;
+    border-radius: 8px;
+   
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.lmd22{
+    height: 40px;
+    width: 125px;
+    background-color: #00B9AE;
+    border-radius: 8px;
+    margin-top: 6px;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #16181E;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.lmd12{
+    color: white;
+}
+
+.insd{
+    width: 96px;
+    height: 19px;
+    font-weight: 800;
+font-size: 16px;
+margin-top: 6px;
+}
+.ind1{
+    height: 14px;
+    width: 80px;
+    font-style: normal;
+font-weight: 700;
+font-size: 10px;
+}
+.ind2{
+    height: 2px;
+    width: 125px;
+    background-color: #00B9AE;
+    margin-top: 6px;
+    border-radius: 1px;
+}
+
+
+
+#hu3{
+    background-color: #00B9AE;
+    color: black;
+    text-align: center;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#hu3 p{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+};
+
+.fb:hover{
+    cursor: pointer;
+    color: #00B9AE;
+}
+.lmd{
+    background-image: url(./images/pict6.png);
+}

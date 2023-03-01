@@ -1,0 +1,12 @@
+.App{
+
+  position: relative;
+width: 1512px;
+height: 982px;
+display: flex;
+gap: 1px;
+
+/* 16181E */
+
+background: #16181E;
+}

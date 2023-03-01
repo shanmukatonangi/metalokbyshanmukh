@@ -1,0 +1,627 @@
+.sidebar{
+    position: absolute;
+width: 248px;
+height: 982px;
+left: 1px;
+top: 0px;
+
+/* 21242D */
+
+background: #21242D;
+/* Border */
+
+border: 2px solid rgba(249, 249, 249, 0.1);
+}
+
+.dashboard{
+    position: absolute;
+width: 160px;
+height: 36px;
+left: 33px;
+top: 32px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 100%;
+/* identical to box height, or 36px */
+
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+/* F9F9F9 */
+
+color: #F9F9F9;
+}
+.menu1{
+    position: absolute;
+width: 210px;
+height: 218px;
+left: 39px;
+top: 166px;
+}
+.menu{
+    position: absolute;
+left: 0%;
+right: 77.62%;
+top: 0%;
+bottom: 89.91%;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+/* low op Titles */
+
+color: rgba(249, 249, 249, 0.67);
+
+}
+.home{
+    position: absolute;
+left: 0%;
+right: 0%;
+top: 17.43%;
+bottom: 63.3%;
+
+
+}
+
+.homeic{
+    box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 10%;
+bottom: 87.43%;
+
+/* 00B9AE */
+color:#00B9AE;
+
+
+
+}
+.homeic1{
+    position: absolute;
+left: 18.57%;
+right: 57.14%;
+top: 0%;
+bottom: 87.43%;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+display: flex;
+align-items: center;
+
+/* 00B9AE */
+
+color: #00B9AE;
+
+}
+
+.discover{
+    position: absolute;
+left: 0%;
+right: 48.1%;
+top: 44.04%;
+bottom: 44.95%;
+}
+
+.discic{
+ 
+
+    position: absolute;
+    left: 0%;
+    right: 88.57%;
+    top: 44.04%;
+    bottom: 0%;
+    color: white;
+
+}
+
+.discic1{
+    position: absolute;
+left: 28.57%;
+right: 48.1%;
+top: 15%;
+bottom: 0%;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+/* F9F9F9 */
+
+color: #F9F9F9;
+}
+
+.awards{
+    position: absolute;
+left: 0%;
+right: 52.86%;
+top: 66.51%;
+bottom: 22.48%;
+
+
+}
+
+
+.awardsic{
+    position: absolute;
+left: 0%;
+right: 88.57%;
+top: 66.51%;
+bottom: 22.48%;
+color: #F9F9F9;
+}
+
+.awardsic1{
+    position: absolute;
+left: 28.57%;
+right: 52.86%;
+top: 36.97%;
+bottom: 22.94%;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+/* F9F9F9 */
+
+color: #F9F9F9;
+
+}
+
+
+.celebrities{
+    position: absolute;
+left: 0%;
+right: 40.48%;
+top: 88.99%;
+bottom: 0%;
+}
+.celeic{
+    position: absolute;
+left: 0%;
+right: 40.48%;
+top: 88.99%;
+bottom: 0%;
+color: #F9F9F9;
+}
+
+.celeic1{
+    position: absolute;
+left: 28.57%;
+right: 40.48%;
+top: 69.45%;
+bottom: 0.46%;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+/* F9F9F9 */
+
+color: #F9F9F9;
+
+}
+
+.library{
+    position: absolute;
+width: 141px;
+height: 310px;
+left: 39px;
+top: 443px;
+}
+
+.lib{
+    position: absolute;
+left: 0%;
+right: 59.57%;
+top: 0%;
+bottom: 92.9%;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+/* low op Titles */
+
+color: rgba(249, 249, 249, 0.67);
+
+
+}
+
+.recent{
+    position: absolute;
+left: 0%;
+right: 33.33%;
+top: 15.16%;
+bottom: 77.1%;
+}
+.rece{
+    position: absolute;
+    left: 0%;
+    right: 82.98%;
+    top: 15.16%;
+    bottom: 77.1%;
+    color: #F9F9F9;
+    
+}
+
+.rece1{
+    position: absolute;
+    left: 37.66%;
+    right: 33.33%;
+    top: 5.48%;
+    bottom: 77.42%;
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    
+    /* F9F9F9 */
+    
+    color: #F9F9F9;
+    
+}
+
+
+.top{
+    position: absolute;
+left: 0%;
+right: 15.6%;
+top: 30.97%;
+bottom: 61.29%;
+}
+
+.tr{
+    position: absolute;
+left: 0%;
+right: 82.98%;
+top: 30.97%;
+bottom: 61.29%;
+color: #F9F9F9;
+}
+
+.tr1{
+    position: absolute;
+left: 27.66%;
+right: 15.6%;
+top: 31.29%;
+bottom: 61.61%;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+/* F9F9F9 */
+
+color: #F9F9F9;
+
+}
+
+.downloads{
+    position: absolute;
+left: 0%;
+right: 0%;
+top: 46.77%;
+bottom: 46.13%;
+}
+
+.dws{
+    position: absolute;
+left: 0%;
+right: 82.98%;
+top: 46.77%;
+bottom: 46.13%;
+color: #F9F9F9;
+}
+
+.dws1{
+    position: absolute;
+left: 27.66%;
+right: 0%;
+top: 46.77%;
+bottom: 46.13%;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+/* F9F9F9 */
+
+color: #F9F9F9;
+}
+
+.playlist{
+    position: absolute;
+left: 0%;
+right: 26.24%;
+top: 61.61%;
+bottom: 31.29%;
+}
+
+.ply{
+    position: absolute;
+left: 0%;
+right: 82.98%;
+top: 61.94%;
+bottom: 31.61%;
+color: #F9F9F9;
+}
+
+.ply1{
+    position: absolute;
+left: 37.66%;
+right: 26.24%;
+top: 41.61%;
+bottom: 31.29%;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+/* F9F9F9 */
+
+color: #F9F9F9;
+
+}
+
+.watchlist{
+    position: absolute;
+left: 0%;
+right: 18.44%;
+top: 76.45%;
+bottom: 15.81%;
+}
+
+.wt{
+    position: absolute;
+left: 0%;
+right: 82.98%;
+top: 76.45%;
+bottom: 15.81%;
+color: #F9F9F9;
+}
+
+.wt1{
+    position: absolute;
+left: 27.66%;
+right: 18.44%;
+top: 56.77%;
+bottom: 16.13%;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+/* F9F9F9 */
+
+color: #F9F9F9;
+}
+
+
+.completed{
+    position: absolute;
+left: 0%;
+right: 9.93%;
+top: 92.26%;
+bottom: 0%;
+
+}
+
+.cmp{
+    position: absolute;
+left: 0%;
+right: 82.98%;
+top: 92.26%;
+bottom: 0%;
+color: #F9F9F9;
+}
+
+.cmp1{
+    position: absolute;
+left: 27.66%;
+right: 9.93%;
+top: 72.58%;
+bottom: 0.32%;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+/* F9F9F9 */
+
+color: #F9F9F9;
+}
+
+
+.general{
+    position: absolute;
+width: 103px;
+height: 122.18px;
+left: 39px;
+top: 812px;
+}
+
+.gene{
+    position: absolute;
+left: 0%;
+right: 38.83%;
+top: 0%;
+bottom: 81.99%;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+/* low op Titles */
+
+color: rgba(249, 249, 249, 0.67);
+}
+
+.settings{
+    position: absolute;
+left: 0%;
+right: 0%;
+top: 38.47%;
+bottom: 41.89%;
+
+}
+
+.set{
+    position: absolute;
+left: 0%;
+right: 76.7%;
+top: 38.47%;
+bottom: 41.89%;
+color:#F9F9F9 ;
+}
+
+.set1{
+    position: absolute;
+left: 37.86%;
+right: 0%;
+top: 19.29%;
+bottom: 42.71%;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+/* F9F9F9 */
+
+color: #F9F9F9;
+
+}
+
+
+.logout{
+    position: absolute;
+left: 0%;
+right: 0%;
+top: 78.57%;
+bottom: 0%;
+}
+
+.log{
+    position: absolute;
+left: 0%;
+right: 76.7%;
+top: 78.57%;
+bottom: 0%;
+color: #F9F9F9;
+
+}
+
+.log1{
+    position: absolute;
+left: 37.86%;
+right: 0%;
+top: 60.21%;
+bottom: 1.79%;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+/* F9F9F9 */
+
+color: #F9F9F9;
+
+}
+
+p:hover{
+    cursor: pointer;
+    color: #00B9AE;
+}
